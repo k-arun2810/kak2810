@@ -15,7 +15,7 @@ public static void main(String[] args) {
 	Coll x= new Coll();
 	x.empInfo('K', 25);
 	x.empInfo("Arun");
+	System.out.println("123");
 }
-
 
 }
