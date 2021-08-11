@@ -22,5 +22,6 @@ public class Employee {
 		e.empInfo(8220771042f);
 		e.empInfo('F', 24);
 		e.empInfo(31000.250f);
+		System.out.println("asd");
 	}
 }
